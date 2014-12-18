@@ -1,4 +1,4 @@
 damians1987.github.io
 =====================
 
-still a test page
+Website describing both finished and ongoing open source projects.
